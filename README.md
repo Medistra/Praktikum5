@@ -153,4 +153,7 @@ while True:
 
 ![Gambar 5](screenshot/ss4.png)
 
+### Flowchart
+
+![Gambar 6](flowchart/flow1.png)
 
